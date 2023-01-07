@@ -48,3 +48,39 @@ nav {
     border-radius: 8px;
 
     }
+    section{
+        margin-top: 180px;
+        
+    }
+    /* failer-aresection */
+    .failures-area{
+        display: flex;
+        gap: 25rem;
+        align-items: center;
+        margin-left: 150px;
+        
+    }
+    .failures-textare{
+        
+    }
+    .heading-titel{
+        font-size: 3rem;
+        font-weight: 500px;
+        width: 380px;
+        text-align: left;
+    }
+    .heading-pragrapah{
+        font-size: 1rem;
+        width: 350px;
+        text-align: left;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+    .option-bar ul, li{
+        list-style: none;
+        margin-right: 5px;
+        margin-bottom: 10px;
+    }
+    .option-bar input{
+        margin-right: 10px;
+    }
