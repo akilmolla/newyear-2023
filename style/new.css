@@ -92,7 +92,7 @@ nav {
         font-weight: 600;
     }
     .mesurment{
-        background-color: aqua;
+        /* background-color: aqua; */
         height: 80vh;
         margin-left: 120px;
         margin-right: 120px;
@@ -119,16 +119,21 @@ nav {
     }
      /* keep a positive   */
      .positive-area{
-        border: 1px  solid royalblue;
-        height: 180px;
+        
+        height: 40vh;
         width: 100%;
-        padding: 38px;
+        padding: 15px;
+        background-image: linear-gradient(rgba(85, 195, 218, 0.5), rgba(81, 109, 195, 0.57)),
+      url("../images/watch.png");;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
      }
 .btn-primary{
     float:
     width: 150px 150px;
     background-color: darkgoldenrod;
-    padding: 10px 30px;
+    padding: 20px 30px;
     border: 0;
     font-size: 28px;
     font-weight: 600;
@@ -136,5 +141,9 @@ nav {
     border-radius: 8px;
 }
 .positive-info{
-
+    font-size: 50px;
+    font-weight: 800;
+    width: 500px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 35px;
 }
