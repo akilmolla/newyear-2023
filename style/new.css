@@ -129,16 +129,18 @@ nav {
         background-size: cover;
         
      }
-.btn-primary{
-    float:
-    width: 150px 150px;
-    background-color: darkgoldenrod;
+.btn1-primary{
+    
+    width:150px 150px;
+    b
     padding: 20px 30px;
     border: 0;
     font-size: 28px;
     font-weight: 600;
     color: rgb(255, 253, 253);
     border-radius: 8px;
+   color: red;
+   padding: 15px 20px;
 }
 .positive-info{
     font-size: 50px;
