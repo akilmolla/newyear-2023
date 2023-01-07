@@ -84,3 +84,57 @@ nav {
     .option-bar input{
         margin-right: 10px;
     }
+    /* My Plans area */
+    .plan-brfo{
+        text-align: center;
+        margin-bottom: 120px;
+        font-size: 50px;
+        font-weight: 600;
+    }
+    .mesurment{
+        background-color: aqua;
+        height: 80vh;
+        margin-left: 120px;
+        margin-right: 120px;
+        
+    }
+    .plans-group{
+       
+        display: flex;
+        gap: 80px;
+    }
+    .web-devosit{
+        margin: 0px auto;
+        text-align: center;
+        margin-bottom: 130px;
+    }
+    .sub-info{
+        font-size: 25px;
+        font-weight: 800;
+    }
+    .subinfo-title{
+        font-size: 15px;
+        font-weight: 400;
+        letter-spacing: 1px;
+    }
+     /* keep a positive   */
+     .positive-area{
+        border: 1px  solid royalblue;
+        height: 180px;
+        width: 100%;
+        padding: 38px;
+     }
+.btn-primary{
+    float:
+    width: 150px 150px;
+    background-color: darkgoldenrod;
+    padding: 10px 30px;
+    border: 0;
+    font-size: 28px;
+    font-weight: 600;
+    color: rgb(255, 253, 253);
+    border-radius: 8px;
+}
+.positive-info{
+
+}
